@@ -1,0 +1,13 @@
+com/sentinelai/controller/AuthController.class
+com/sentinelai/model/ScanResult.class
+com/sentinelai/service/SafeBrowsingClient.class
+com/sentinelai/security/JwtUtil.class
+com/sentinelai/security/SecurityConfig.class
+com/sentinelai/repository/ScanResultRepository.class
+com/sentinelai/security/JwtAuthFilter.class
+com/sentinelai/controller/ScannerController.class
+com/sentinelai/controller/HistoryController.class
+com/sentinelai/SentinelAiApplication.class
+com/sentinelai/repository/UserRepository.class
+com/sentinelai/service/SafeBrowsingClient$SafeBrowsingResult.class
+com/sentinelai/model/User.class
